@@ -12,19 +12,20 @@
 <img align="right" alt="img" src="" width="50%" height="auto" />
 
 - 🌱 &nbsp; Aspiring Full-Stack Developer
-- 📍  &nbsp; Vancouver, Canada
+- 📍 &nbsp; Vancouver, Canada
 - 🥋 &nbsp; Martial Artist
 
 <h3> Things I am currently working on </h3>
-- Finishing my Web Development Diploma @ Brainstation 
-- a
-- b
+- &nbsp Finishing my Web Development Diploma @ Brainstation 
+- &nbsp Learning how to use Sequelize, Axios, Express and React to create a full-fledged web app
+- &nbsp Building up my vocabulary and communication skills in English
+
 
 
 <h3> Things I am challenging myself with </h3>
--  &nbsp Waking up at 6am to code and review class material
-- a
-- b
+- &nbsp Waking up at 6am to meditate  
+- &nbsp Ditching fast-food and focusing on making healthy homemade meals
+- &nbsp Exposing myself to the things I'm afraid of (speaking in front large groups and initiating conversation with strangers)
 
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=bibschan&show_icons=true&hide_border=true"/>
