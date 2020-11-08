@@ -9,6 +9,7 @@
 [![Mail](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:souzabibiana@hotmail.com)
 
 <p> Welcome to my Github page! I am currently finishing my Web Development Diploma and excited to start job-hunting! Feel free to poke around my repositories and reach out if you'd like! 
+  <br/>
 <img align="right" src="https://cdn.discordapp.com/attachments/705529523491307574/774845946898153472/bibi.png" width="50%" height="auto" />
   <!-- Thank you https://www.fiverr.com/audipriatna for the amazing image! -->
 
@@ -25,7 +26,7 @@
 - &nbsp; Ditching fast-food and focusing on making healthy homemade meals 
 - &nbsp; Exposing myself to the things I'm afraid of (speaking in front large groups and initiating conversation with strangers)
 
-
+<br />
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=bibschan&show_icons=true&hide_border=true"/>
 <h3>🛠 &nbsp; Tech Stack</h3>
 
