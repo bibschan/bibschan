@@ -18,14 +18,18 @@
 - 🥋 &nbsp; Martial Artist
 
 <h3> Things I am currently working on </h3>
-- &nbsp;Finishing my Web Development Diploma @ Brainstation 
-- &nbsp;Building up my vocabulary and communication skills in English
+<ul>
+  <li> Finishing my Web Development Diploma @ Brainstation  </li>
+  <li> Building up my vocabulary and communication skills in English </li>
+ </ul>
+
 
 
 <h3> Things I am challenging myself with </h3>
-- &nbsp; Ditching fast-food and focusing on making healthy homemade meals 
-- &nbsp; Exposing myself to the things I'm afraid of (speaking in front large groups and initiating conversation with strangers)
-
+<ul>
+<li> Ditching fast-food and focusing on making healthy homemade meals  </li>
+<li> Exposing myself to the things I'm afraid of (speaking in front large groups and initiating conversation with strangers) </li>
+ </ul>
 <br />
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=bibschan&show_icons=true&hide_border=true"/>
 <h3>🛠 &nbsp; Tech Stack</h3>
