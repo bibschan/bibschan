@@ -23,14 +23,12 @@
   <li> Building up my vocabulary and communication skills in English </li>
  </ul>
 
-
-
 <h3> Things I am challenging myself with </h3>
 <ul>
 <li> Ditching fast-food and focusing on making healthy homemade meals  </li>
 <li> Exposing myself to the things I'm afraid of (speaking in front large groups and initiating conversation with strangers) </li>
  </ul>
-<br />
+
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=bibschan&show_icons=true&hide_border=true"/>
 <h3>🛠 &nbsp; Tech Stack</h3>
 
