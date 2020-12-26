@@ -19,7 +19,8 @@
 
 <h3> Things I am currently working on </h3>
 <ul>
-  <li> Finishing my Web Development Diploma @ Brainstation  </li>
+  <li> Finding my first opportunity in the Dev field </li>
+  <li> Learning more about React through Wes Bos' course </li>
   <li> Building up my vocabulary and communication skills in English </li>
  </ul>
 
