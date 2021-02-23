@@ -13,7 +13,7 @@
 <img align="right" src="https://cdn.discordapp.com/attachments/705529523491307574/774845946898153472/bibi.png" width="50%" height="auto" />
   <!-- Thank you https://www.fiverr.com/audipriatna for the amazing image! -->
 
-- 🌱 &nbsp; Aspiring Full-Stack Developer
+- 🌱 &nbsp; Junior Full-Stack Developer
 - 📍 &nbsp; Vancouver, Canada
 - 🥋 &nbsp; Martial Artist
 
