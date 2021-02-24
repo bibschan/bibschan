@@ -26,8 +26,9 @@
 
 <h3> Things I am challenging myself with </h3>
 <ul>
-<li> Working out more frequently and eating a healthier diet (quarantine baking got me round) </li>
-<li> Exposing myself to the things I'm afraid of (speaking in front large groups and initiating conversation with strangers) </li>
+  <li> Working out more frequently and eating a healthier diet</li>
+  <li> Speaking in front large groups and initiating conversation with strangers</li>
+  <li> Learning more about Heroku deployment </li>
  </ul>
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibschan&layout=compact&theme=dark&hide_border=true&cache_seconds=2000" />
