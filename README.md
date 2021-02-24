@@ -30,7 +30,8 @@
 <li> Exposing myself to the things I'm afraid of (speaking in front large groups and initiating conversation with strangers) </li>
  </ul>
 
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=bibschan&show_icons=true&hide_border=true"/>
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibschan&layout=compact&theme=dark&hide_border=true&cache_seconds=2000" />
+<!-- <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=bibschan&show_icons=true&hide_border=true"/> -->
 <h3>🛠 &nbsp; Tech Stack</h3>
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
@@ -44,3 +45,5 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
+
+
