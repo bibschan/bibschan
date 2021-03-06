@@ -8,10 +8,13 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bibiana-souza/)
 [![Mail](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:souzabibiana@hotmail.com)
 
-<p> Welcome to my Github page! I am currently hunting for a junior developer role, if I can help contribute to your company with my tech stack please reach out! Feel free to poke around my repositories :) 
-  <br/>
+<p> Welcome to my Github page! My name is Bibi (pronounced bee-bee 🐝) and I'm pleased to welcome you into this little space of my own. I was born and raised in a small town in Southern Brazil, my early years were spent in the countryside helping my family with farm work and taking care of animals 🐷🐷🐷  
+
+I am now a Software Engineering enthusiast who loves coffee and Bruce Lee movies, during my free time I enjoy playing games and working out. Feel free to poke around my repositories and if you'd like to collaborate please reach out on Linkedin!
+
+<br/>
 <img align="right" src="https://cdn.discordapp.com/attachments/705529523491307574/774845946898153472/bibi.png" width="50%" height="auto" />
-  <!-- Thank you https://www.fiverr.com/audipriatna for the amazing image! -->
+<!-- Thank you https://www.fiverr.com/audipriatna for the amazing image! -->
 
 - 🌱 &nbsp; Junior Full-Stack Developer
 - 📍 &nbsp; Vancouver, Canada
@@ -19,16 +22,17 @@
 
 <h3> Things I am currently working on </h3>
 <ul>
-  <li> Finding my first opportunity in the Dev field </li>
-  <li> Learning more about React through Wes Bos' course </li>
-  <li> Building up my vocabulary and communication skills in English </li>
+  <li> Learning all things System Design (Sharding, Load Balancers, Reverse Proxies) </li>
+  <li> Improving my React skills through Wes Bos' course </li>
+  <li> Building up my English vocabulary and practicing lots through open conversations </li>
  </ul>
 
 <h3> Things I am challenging myself with </h3>
 <ul>
-  <li> Working out more frequently and eating a healthier diet</li>
-  <li> Speaking in front large groups and initiating conversation with strangers</li>
-  <li> Learning more about Heroku deployment </li>
+  <li> Understading more complex queries in mySQL and PostgreSQL </li>
+  <li> Working out more frequently and eating a cleaner diet </li>
+  <li> Speaking in front large groups and initiating conversation with strangers </li>
+  <li> Meditating and practising mindfulness to keep anxiety at bay </li>
  </ul>
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibschan&layout=compact&theme=dark&hide_border=true&cache_seconds=2000" />
