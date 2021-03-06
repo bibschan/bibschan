@@ -1,5 +1,3 @@
-### Welcome to my GitHub
-
 <!-- Thank you Fernando Roldan for the awesome template!! -->
 
 ### ✨ This is Bibiana Souza's GitHub✨
@@ -12,7 +10,7 @@
 
 I am now a Software Engineering enthusiast who loves coffee and Bruce Lee movies, during my free time I enjoy playing games and working out. Feel free to poke around my repositories and if you'd like to collaborate please reach out on Linkedin!
 
-<br/>
+
 <img align="right" src="https://cdn.discordapp.com/attachments/705529523491307574/774845946898153472/bibi.png" width="50%" height="auto" />
 <!-- Thank you https://www.fiverr.com/audipriatna for the amazing image! -->
 
