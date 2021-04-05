@@ -18,7 +18,7 @@ I am now a Software Engineering enthusiast who loves coffee and Bruce Lee movies
 - 📍 &nbsp; Vancouver, Canada
 - 🥋 &nbsp; Martial Artist
 
-<h3> Things I am currently working on </h3>
+<h3> Things I am currently working on</h3>
 <ul>
   <li> Learning all things System Design (Sharding, Load Balancers, Reverse Proxies) </li>
   <li> Improving my React skills through Wes Bos' course </li>
