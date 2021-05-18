@@ -20,6 +20,7 @@ I am now a Software Engineering enthusiast who loves coffee and Bruce Lee movies
 
 <h3> Things I am currently working on</h3>
 <ul>
+  <li> Learning C# </li>
   <li> Learning all things System Design (Sharding, Load Balancers, Reverse Proxies) </li>
   <li> Improving my React skills through Wes Bos' course </li>
   <li> Building up my English vocabulary and practicing lots through open conversations </li>
