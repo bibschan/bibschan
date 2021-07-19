@@ -15,23 +15,21 @@ I am now a Software Engineering enthusiast who loves coffee and Bruce Lee movies
 <!-- Thank you https://www.fiverr.com/audipriatna for the amazing image! -->
 
 - 🌱 &nbsp;Software Developer @ HCL Technologies
-- 📍 &nbsp; Vancouver, Canada
-- 🥋 &nbsp; Martial Artist
+- 📍 &nbsp;Vancouver, Canada
+- 🥋 &nbsp;Martial Artist
 
 <h3> Things I am currently working on</h3>
 <ul>
-  <li> Learning C# </li>
-  <li> Learning all things System Design (Sharding, Load Balancers, Reverse Proxies) </li>
-  <li> Improving my React skills through Wes Bos' course </li>
+  <li> Learning all things C# </li>
+  <li> Improving my Typescript and React skills through work projects </li>
   <li> Building up my English vocabulary and practicing lots through open conversations </li>
  </ul>
 
 <h3> Things I am challenging myself with </h3>
 <ul>
   <li> Understading more complex queries in mySQL and PostgreSQL </li>
-  <li> Working out more frequently and eating a cleaner diet </li>
+  <li> Working out more frequently and eating a plant-based diet </li>
   <li> Speaking in front large groups and initiating conversation with strangers </li>
-  <li> Meditating and practising mindfulness to keep anxiety at bay </li>
  </ul>
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibschan&layout=compact&theme=dark&hide_border=true&cache_seconds=2000" />
