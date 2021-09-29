@@ -20,15 +20,15 @@ I am now a Software Engineering enthusiast who loves coffee and Bruce Lee movies
 
 <h3> Things I am currently working on</h3>
 <ul>
-  <li> Learning all things C# </li>
-  <li> Improving my Typescript and React skills through work projects </li>
-  <li> Building up my English vocabulary and practicing lots through open conversations </li>
+  <li> Learning all things React and Angular </li>
+  <li> Improving my CSS skills to turn mockups into pixel-perfect web apps </li>
+  <li> Building up my English vocabulary </li>
  </ul>
 
 <h3> Things I am challenging myself with </h3>
 <ul>
-  <li> Understading more complex queries in mySQL and PostgreSQL </li>
-  <li> Working out more frequently and eating a plant-based diet </li>
+  <li> Understanding complex queries in mySQL </li>
+  <li> Learning how to shift my mindset from React development to Angular </li>
   <li> Speaking in front large groups and initiating conversation with strangers </li>
  </ul>
 
