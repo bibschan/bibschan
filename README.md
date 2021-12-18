@@ -8,7 +8,7 @@
 
 <p> Welcome to my Github page! My name is Bibi (pronounced bee-bee 🐝) and I'm pleased to welcome you into this little space of my own. I was born and raised in a small town in Southern Brazil, my early years were spent in the countryside helping my family with farm work and taking care of animals 🐷🐷🐷  
 
-I am now a Software Engineering enthusiast who loves coffee and Bruce Lee movies, during my free time I enjoy playing games and working out. Feel free to poke around my repositories and if you'd like to collaborate please reach out on Linkedin!
+I am now a Frontend Developer who loves coffee and action movies, during my free time I enjoy playing games and working out. Feel free to poke around my repositories and if you'd like to collaborate please reach out on Linkedin!
 
 
 <img align="right" src="https://cdn.discordapp.com/attachments/705529523491307574/774845946898153472/bibi.png" width="50%" height="auto" />
