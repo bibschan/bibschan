@@ -1,4 +1,4 @@
-### ✨ Welcome to my GitHub ✨
+### ✨ Hi there! ✨
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bibiana-souza/)
 [![Mail](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:souzabibiana@hotmail.com)
 <p> Welcome to my Github page! Feel free to poke around my repositories and reach out if you'd like. I'm a full-stack developer who's recently been working in the web3 space with technologies such as Angular, GraphQL, MongoDB and others. I'm currently open to new opportunities so if you'd like to partner up send me an email!
