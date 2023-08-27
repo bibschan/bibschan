@@ -5,7 +5,7 @@
 <!-- <img align="right" alt="img" src="https://pbs.twimg.com/media/FjfrN4waUAAU99T?format=jpg&name=medium" width="50%" height="auto" /> -->
 
 - 🌱 &nbsp; Full-Stack Developer
-- 📍 &nbsp; Vancouver, Canada
+- 📍 &nbsp; Netherlands
 
 <h3> Things I am currently working on </h3>
 - &nbsp Updating my personal projects </br>
