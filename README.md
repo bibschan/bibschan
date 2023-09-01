@@ -8,7 +8,7 @@
 - 📍 &nbsp; Netherlands
 
 <h3> Things I am currently working on </h3>
-- &nbsp Updating my personal projects </br>
+- &nbsp Learning about React hooks </br>
 
 <h3>🛠 Tech Stack</h3>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
