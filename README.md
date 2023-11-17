@@ -9,8 +9,8 @@
 
 <h3> Things I am currently doing </h3>
 - &nbsp Juggling a few projects across some interesting domains </br>
-- &nbsp Trying to learn how to best test frontend components (if you're an expert in testing, hit me up 😭)
-- &nbsp Learning how to use all Dev Tools properly for debugging
+- &nbsp Trying to learn how to best test frontend components (if you're an expert in testing, hit me up 😭) </br>
+- &nbsp Learning how to use all Dev Tools properly for debugging </br>
 
 <h3>🛠 Tech Stack</h3>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
