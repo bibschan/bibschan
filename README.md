@@ -4,13 +4,13 @@
 <p> Welcome to my Github page! Feel free to poke around my repositories and reach out if you'd like. I'm a full-stack developer who's recently been working in the web3 and UXR space with technologies such as React and Angular. 
 <!-- <img align="right" alt="img" src="https://pbs.twimg.com/media/FjfrN4waUAAU99T?format=jpg&name=medium" width="50%" height="auto" /> -->
 
-- 🌱 &nbsp; Frontend Engineer 
+- 🌱 &nbsp; Engineering Team Lead at 🌸 Blossom 🌸
 - 📍 &nbsp; Vancouver, Canada
 
 <h3> Things I am currently doing </h3>
 - &nbsp Juggling a few projects across some interesting domains </br>
-- &nbsp Trying to learn how to best test frontend components (if you're an expert in testing, hit me up 😭) </br>
-- &nbsp Learning how to use all Dev Tools properly for debugging </br>
+- &nbsp Learning how to manage teams and make tech decisions </br>
+- &nbsp Learning how to combat my impostor syndrome and feel more confident as a woman in tech </br>
 
 <h3>🛠 Tech Stack</h3>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
