@@ -9,7 +9,7 @@
 
 <h3> Things I am currently doing </h3>
 - &nbsp Learning all things NextJS and SSR </br>
-- &nbsp Co-hosting a monthly meetup for developers in Vancouver called [VanJS](https://www.meetup.com/vancouver-javascript-developers) </br>
+- &nbsp Co-hosting a monthly meetup for developers in Vancouver called VanJS </br>
 - &nbsp Working on the 2.0 version of Blossom, stay tuned! </br>
 
 <h3>🛠 Tech Stack</h3>
