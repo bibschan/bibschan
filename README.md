@@ -8,9 +8,9 @@
 - 📍 &nbsp; Vancouver, Canada
 
 <h3> Things I am currently doing </h3>
-- &nbsp Juggling a few projects across some interesting domains </br>
-- &nbsp Learning how to manage teams and make tech decisions </br>
-- &nbsp Learning how to combat my impostor syndrome and feel more confident as a woman in tech </br>
+- &nbsp Learning all things NextJS and SSR </br>
+- &nbsp Co-hosting a monthly meetup for developers in Vancouver called [VanJS](https://www.meetup.com/vancouver-javascript-developers) </br>
+- &nbsp Working on the 2.0 version of Blossom, stay tuned! </br>
 
 <h3>🛠 Tech Stack</h3>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
