@@ -10,7 +10,7 @@
 <h3> Things I am currently doing </h3>
 - &nbsp Learning all things NextJS and SSR </br>
 - &nbsp Co-hosting a monthly meetup for developers in Vancouver called VanJS </br>
-- &nbsp Working on the 2.0 version of Blossom, stay tuned! </br>
+- &nbsp Trying to figure out where I can make the most impact on the causes I care about (climate change, women in tech and local community) </br>
 
 <h3>🛠 Tech Stack</h3>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
