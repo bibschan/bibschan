@@ -10,6 +10,7 @@
 <h3> Things I am currently doing </h3>
 - &nbsp Learning all things NextJS and SSR </br>
 - &nbsp Co-hosting a monthly meetup for developers in Vancouver called VanJS </br>
+- &nbsp Taking a more active role in the local dev community by co-hosting many other events! </br>
 - &nbsp Trying to figure out where I can make the most impact on the causes I care about (climate change, women in tech and local community) </br>
 
 <h3>🛠 Tech Stack</h3>
