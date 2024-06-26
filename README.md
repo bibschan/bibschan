@@ -1,5 +1,5 @@
 ### ✨ Hi there! ✨
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bibiana-souza/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bibschan/)
 [![Mail](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:souzabibiana@hotmail.com)
 <p> Welcome to my Github page! Feel free to poke around my repositories and reach out if you'd like. I'm a full-stack developer who's recently been working in the web3 and UXR space with technologies such as React and Angular. 
 <!-- <img align="right" alt="img" src="https://pbs.twimg.com/media/FjfrN4waUAAU99T?format=jpg&name=medium" width="50%" height="auto" /> -->
